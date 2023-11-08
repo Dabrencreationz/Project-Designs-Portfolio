@@ -2,9 +2,13 @@
 This project is to show case my design skills using figma and other design tools.
 
 # Travellig App Designs
+<<<<<<< HEAD
+This design is a simple one to ilustrate how the mobile travel app works or how it will look after finishing the design, this will benefit the frequent travellers.
+=======
 This design is a simple one to ilustrate how the mobile travel app works or how it will look after finishing the esign, this will benefit the frequent travellers.
 Please find attached, link to the figma designs below:
 [Travelling app](https://www.figma.com/file/YMYhXEBaLmlPhv6DBypqAY/Practise?type=design&node-id=0%3A1&mode=design&t=WlZkaTowpbL6Ac4O-1)
+>>>>>>> c07c2063d4fe2e803bc2774ce0d6ae3cdc806a77
 
 # Portfolio Designs
 This will cover all kinds of portfolio projects for individuals or as a group in general.
