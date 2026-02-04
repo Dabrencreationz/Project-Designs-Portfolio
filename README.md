@@ -12,6 +12,8 @@ This area covers all designs for food products and contents.
 
 # Portfolio Designs
 This will cover all kinds of portfolio projects for individuals or as a group in general.
+- Dabren Tech Training School
+
 
 # More...
 
@@ -19,4 +21,4 @@ Relax and enjoy my new found love of designing.
 
 # Authour
 Brenda Okonofua.
-Software Developer and Products designer
+Software Developer/Designer
